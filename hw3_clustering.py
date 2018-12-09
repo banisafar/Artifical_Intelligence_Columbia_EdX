@@ -6,7 +6,6 @@ import csv
 
 #X = np.genfromtxt(sys.argv[1], delimiter = ",")
 
-# python /Users/sahar.banisafar/Desktop/hw3_clustering.py /Users/sahar.banisafar/Desktop/X.csv
 def KMeans(data):
 	#perform the algorithm with 5 clusters and 10 iterations...you may try others for testing purposes, but submit 5 and 10 respectively
 
