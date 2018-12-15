@@ -15,7 +15,7 @@ def KMeans(data):
 
     #initialize centroids
     #centroids = np.random.rand(4,dim)  #later change this to 5
-    centerslist = [[1,1], [-1, -1], [-1, 1], [1,-1]]
+    centerslist = [[1,1], [-1, -1], [-1, 1], [1,-2]]
 
 
 
